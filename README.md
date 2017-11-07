@@ -1,6 +1,8 @@
 # Cryptonote_ESP8266_OLED_SSD1306
 
-Stuff to go here
+Originally coded to work with http://electroneum.hashparty.io/
+
+
 
 # Donations
 
